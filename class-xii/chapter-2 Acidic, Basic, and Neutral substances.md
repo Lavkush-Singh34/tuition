@@ -107,3 +107,114 @@ Organic matter (like compost or manure) releases **acids** which help to **neutr
 5. Onion is an example of \_\_\_\_\_\_\_\_ indicator → **Olfactory**
 
 ---
+Here is a **PDF-style note with Important Questions and Answers**, including **Multiple Choice Questions (MCQs)**, **Fill in the Blanks**, and **Short Questions**—perfect for student revision or tuition material.
+
+---
+
+## 📘 Class 7 Science Notes
+
+### Chapter: Exploring Substances — Acidic, Basic, and Neutral
+
+---
+
+### 🔴 **Important Questions & Answers**
+
+**Q1. What are acids? Give two examples.**  
+→ Acids are substances that turn blue litmus red and taste sour.  
+Examples: Lemon juice, Vinegar.
+
+**Q2. What are bases? Give two examples.**  
+→ Bases turn red litmus blue and feel slippery to touch.  
+Examples: Baking soda solution, Soap water.
+
+**Q3. What are indicators?**  
+→ Indicators are substances that show color changes in acids or bases.
+
+**Q4. Give examples of natural indicators.**  
+→ Litmus, Turmeric, Red rose extract, Onion (olfactory).
+
+**Q5. What is neutralisation?**  
+→ The reaction between an acid and a base to form salt and water is called neutralisation.  
+**Equation**: Acid + Base → Salt + Water + Heat
+
+---
+
+### 🟡 **Fill in the Blanks**
+
+1. Acid + Base → _______ + _______ → **Salt + Water**
+    
+2. Turmeric turns _______ in basic solution. → **Red**
+    
+3. _______ litmus turns red in acids. → **Blue**
+    
+4. _______ are used to identify acids and bases. → **Indicators**
+    
+5. Onion acts as a _______ indicator. → **Olfactory**
+    
+
+---
+
+### 🔵 **Multiple Choice Questions (MCQs)**
+
+**1. Which of the following will turn blue litmus red?**  
+A) Soap solution  
+B) Lemon juice ✅  
+C) Baking soda  
+D) Tap water
+
+**2. Which indicator is made from lichens?**  
+A) Red rose  
+B) Turmeric  
+C) Litmus ✅  
+D) Onion
+
+**3. What is the nature of vinegar?**  
+A) Basic  
+B) Neutral  
+C) Acidic ✅  
+D) Salty
+
+**4. Which of the following turns turmeric paper red?**  
+A) Lemon juice  
+B) Salt solution  
+C) Soap solution ✅  
+D) Vinegar
+
+**5. Which reaction forms salt and water?**  
+A) Fermentation  
+B) Neutralisation ✅  
+C) Oxidation  
+D) Photosynthesis
+
+---
+
+### 🟢 **Short Activity-Based Questions**
+
+**Q1. What happens when turmeric-stained paper is touched with soap?**  
+→ The yellow paper turns red, showing it is a base.
+
+**Q2. What is observed when onion juice is mixed with baking soda?**  
+→ The onion smell disappears or changes, showing it is a base.
+
+**Q3. What is the role of baking soda in treating an ant bite?**  
+→ It neutralizes the acid (formic acid) injected by the ant.
+
+**Q4. What does red rose extract turn in:**
+
+- Acidic solution → **Red**
+    
+- Basic solution → **Green**
+    
+
+---
+
+### 🧪 Summary Table
+
+|**Substance**|**Type**|**Litmus Effect**|**Other Indicator Effects**|
+|---|---|---|---|
+|Lemon juice|Acidic|Blue litmus → Red|Red rose → Red|
+|Baking soda solution|Basic|Red litmus → Blue|Turmeric → Red, Red rose → Green|
+|Tap water|Neutral|No change|No change|
+|Soap solution|Basic|Red litmus → Blue|Turmeric → Red|
+
+---
