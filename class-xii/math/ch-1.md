@@ -1,7 +1,5 @@
 ## 📘 **Chapter: Large Numbers Around Us — Full Explanation**
 
----
-
 ### 🔹 1. **Understanding Large Numbers (What is 1 Lakh?)**
 
 * **One Lakh** = 1,00,000 → This is a 6-digit number.
