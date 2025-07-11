@@ -176,11 +176,301 @@ Addition & multiplication are commutative and associative.
 
 Use mean to find rational numbers between two numbers.
 
+🟩 Section A: Fill in the Blanks
+A rational number is a number of the form __________, where the denominator is not equal to __________.
 
+Rational numbers are closed under __________, __________, and __________, but not under __________.
 
+The additive identity of rational numbers is __________.
 
+The multiplicative identity of rational numbers is __________.
 
----
+Division by __________ is not defined in rational numbers.
 
-Let me know if you want a PDF version of this note, quiz worksheet, or slides to teach in class.
+🟨 Section B: Identify the Property Used
+State the property used in each of the following:
 
+2
+3
++
+5
+6
+=
+5
+6
++
+2
+3
+3
+2
+​
+ + 
+6
+5
+​
+ = 
+6
+5
+​
+ + 
+3
+2
+​
+ 
+
+(
+1
+2
++
+1
+4
+)
++
+1
+5
+=
+1
+2
++
+(
+1
+4
++
+1
+5
+)
+( 
+2
+1
+​
+ + 
+4
+1
+​
+ )+ 
+5
+1
+​
+ = 
+2
+1
+​
+ +( 
+4
+1
+​
+ + 
+5
+1
+​
+ )
+
+3
+7
+×
+1
+=
+3
+7
+7
+3
+​
+ ×1= 
+7
+3
+​
+ 
+
+2
+3
+×
+(
+1
+2
++
+1
+4
+)
+=
+2
+3
+×
+1
+2
++
+2
+3
+×
+1
+4
+3
+2
+​
+ ×( 
+2
+1
+​
+ + 
+4
+1
+​
+ )= 
+3
+2
+​
+ × 
+2
+1
+​
+ + 
+3
+2
+​
+ × 
+4
+1
+​
+ 
+
+🟦 Section C: Solve the Following
+3
+4
++
+2
+5
+4
+3
+​
+ + 
+5
+2
+​
+ 
+
+7
+9
+−
+4
+6
+9
+7
+​
+ − 
+6
+4
+​
+ 
+
+(
+−
+3
+7
+)
+×
+(
+2
+5
+)
+( 
+7
+−3
+​
+ )×( 
+5
+2
+​
+ )
+
+(
+8
+9
+)
+÷
+(
+4
+3
+)
+( 
+9
+8
+​
+ )÷( 
+3
+4
+​
+ )
+
+Simplify using distributive property:
+5
+6
+×
+(
+2
+3
++
+4
+5
+)
+6
+5
+​
+ ×( 
+3
+2
+​
+ + 
+5
+4
+​
+ )
+
+🟥 Section D: Word Problems
+A piece of ribbon is 
+7
+8
+8
+7
+​
+  m long. If 
+3
+4
+4
+3
+​
+  m is cut off, how much is left?
+
+A person spends 
+3
+4
+4
+3
+​
+  of his salary and saves the rest. What fraction of the salary is saved?
+
+A class has 
+2
+3
+3
+2
+​
+  boys and 
+1
+4
+4
+1
+​
+  girls. What is the total fraction of students?
+
+Rohit had 
+5
+6
+6
+5
+​
+  litre of milk. He used 
+2
+3
+3
+2
+​
+  litre to make tea. How much milk is left?
