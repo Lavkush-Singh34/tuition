@@ -1,11 +1,4 @@
-Here is a full explanation and revision guide for **Class 7 Maths Chapter: “Arithmetic Expressions”** from *Ganita Prakash*, designed for your revision and to help you teach students effectively:
-
----
-
 ## 📘 Chapter 2: **Arithmetic Expressions** – Full Explanation
-
----
-
 ### 🔹 **2.1 Simple Expressions**
 
 #### ✅ **What is an Arithmetic Expression?**
