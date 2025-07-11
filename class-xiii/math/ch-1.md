@@ -1,3 +1,7 @@
+Here is a complete explanation of all the important topics from **Class 7 Maths Chapter 1: Rational Numbers**, based on the PDF you've shared. This will help you revise and teach your students effectively.
+
+---
+
 ## 📘 Chapter 1: **Rational Numbers – Complete Explanation**
 
 ---
@@ -168,54 +172,5 @@ $$
 * Create **group activities** for verifying properties through examples.
 
 ---
-Here’s a well-structured **Homework Sheet** on **Rational Numbers (Class 7)** for practice and assessment:
 
----
-
-## 📘 **Class 8 Maths – Homework: Rational Numbers**
-
----
-
-### 🟩 **Section A: Fill in the Blanks**
-
-1. A rational number is a number of the form \_\_\_\_\_\_\_\_\_\_, where the denominator is not equal to \_\_\_\_\_\_\_\_\_\_.
-2. Rational numbers are closed under \_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_\_, and \_\_\_\_\_\_\_\_\_\_, but not under \_\_\_\_\_\_\_\_\_\_.
-3. The additive identity of rational numbers is \_\_\_\_\_\_\_\_\_\_.
-4. The multiplicative identity of rational numbers is \_\_\_\_\_\_\_\_\_\_.
-5. Division by \_\_\_\_\_\_\_\_\_\_ is not defined in rational numbers.
-
----
-
-### 🟨 **Section B: Identify the Property Used**
-
-State the property used in each of the following:
-
-1. $\frac{2}{3} + \frac{5}{6} = \frac{5}{6} + \frac{2}{3}$
-2. $\left(\frac{1}{2} + \frac{1}{4} \right) + \frac{1}{5} = \frac{1}{2} + \left(\frac{1}{4} + \frac{1}{5} \right)$
-3. $\frac{3}{7} \times 1 = \frac{3}{7}$
-4. $\frac{2}{3} \times (\frac{1}{2} + \frac{1}{4}) = \frac{2}{3} \times \frac{1}{2} + \frac{2}{3} \times \frac{1}{4}$
-
----
-
-### 🟦 **Section C: Solve the Following**
-
-1. $\frac{3}{4} + \frac{2}{5}$
-2. $\frac{7}{9} - \frac{4}{6}$
-3. $\left( \frac{-3}{7} \right) \times \left( \frac{2}{5} \right)$
-4. $\left( \frac{8}{9} \right) \div \left( \frac{4}{3} \right)$
-5. Simplify using distributive property:
-   $\frac{5}{6} \times \left( \frac{2}{3} + \frac{4}{5} \right)$
-
----
-
-### 🟥 **Section D: Word Problems**
-
-1. A piece of ribbon is $\frac{7}{8}$ m long. If $\frac{3}{4}$ m is cut off, how much is left?
-
-2. A person spends $\frac{3}{4}$ of his salary and saves the rest. What fraction of the salary is saved?
-
-3. A class has $\frac{2}{3}$ boys and $\frac{1}{4}$ girls. What is the total fraction of students?
-
-4. Rohit had $\frac{5}{6}$ litre of milk. He used $\frac{2}{3}$ litre to make tea. How much milk is left?
-
----
+Would you like a **question bank** or **printable summary sheet** based on this explanation?
