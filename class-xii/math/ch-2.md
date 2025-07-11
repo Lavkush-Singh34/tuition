@@ -255,6 +255,55 @@ Use <, > or = to compare the expressions and explain briefly why.
 
 ---
 
+## 📘 **Homework Questions – Arithmetic Expressions (Class 7)**
+
+---
+
+### ✏️ **Section A: Write the Expression**
+
+1. Raju spends ₹40 daily for snacks. Write an expression for his 6-day expense.
+
+2. There are 4 rows of chairs and each row has 12 chairs. Write an expression to find the total number of chairs.
+
+3. Anita had ₹500. She bought a dress for ₹250 and shoes for ₹120. Write an expression to find how much money she has left.
+
+4. Raghu has 100 kg of rice and packs them into 5 kg bags. He already has 3 such bags. Write an expression for total bags.
+
+---
+
+### ✏️ **Section B: Find the Value**
+
+1. 38 + 14 – 9 = \_\_\_\_\_\_
+2. 7 × (6 + 2) = \_\_\_\_\_\_
+3. 150 – (50 + 35) = \_\_\_\_\_\_
+4. (25 + 15) – (8 + 12) = \_\_\_\_\_\_
+5. 4 × 5 + 3 × 2 = \_\_\_\_\_\_
+
+---
+
+### ✏️ **Section C: Compare the Expressions**
+
+Use **<, >, or =** without directly calculating both sides.
+
+1. 50 + 25 \_\_\_\_ 49 + 26
+2. 200 – (60 + 20) \_\_\_\_ 200 – 60 – 20
+3. 8 × (4 + 3) \_\_\_\_ 8 × 4 + 8 × 3
+4. (35 – 15) × 2 \_\_\_\_ 35 × 2 – 15 × 2
+
+---
+
+### ✏️ **Section D: Story Problems**
+
+1. Seema bought 3 packets of flour costing ₹40 each and a bag of sugar for ₹60.
+   ➤ Write the expression and find the total cost.
+
+2. A movie ticket costs ₹120. A group of 6 students wants to watch the movie.
+   ➤ Write an expression and find the total ticket cost.
+
+3. A water tank fills 30 litres per hour. How much water will it hold in 5 hours?
+   ➤ Write the expression and find the value.
+
+
 ### 🔷 **Section E: Expression Challenge**
 
 Choose any number between 10 and 20.
