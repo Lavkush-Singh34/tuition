@@ -219,3 +219,41 @@ State the property used in each of the following:
 4. Rohit had $\frac{5}{6}$ litre of milk. He used $\frac{2}{3}$ litre to make tea. How much milk is left?
 
 ---
+
+
+🚫 Not equal → So subtraction is **not associative**.
+
+Same applies to division.
+
+---
+
+## 🧑‍🏫 **How to Teach Associativity in Class**
+
+📌 **Step-by-Step Idea**:
+
+1. Write 3 rational numbers on the board.
+2. Show two groupings:
+   - a + (b + c)
+   - (a + b) + c
+3. Solve both and compare results.
+4. Repeat with multiplication.
+
+🧠 **Class Activity**:
+
+- Make two teams and give them expressions with different brackets.
+- Ask: **Are they associative?**
+
+---
+
+## 📝 Summary
+
+| Operation     | Associative? |
+|---------------|--------------|
+| Addition (+)  | ✅ Yes        |
+| Multiplication (×) | ✅ Yes   |
+| Subtraction (–) | ❌ No       |
+| Division (÷)  | ❌ No         |
+
+---
+
+Let me know if you'd like a worksheet or visual aid for this concept!
