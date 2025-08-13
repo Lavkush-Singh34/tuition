@@ -1,5 +1,3 @@
----
-
 Topics Related to Squares
 
 1. Definition of a Square Number (Perfect Square)
@@ -101,9 +99,3 @@ Counting how many perfect squares lie within a given range (e.g., between 1–10
 12. Relationship with Triangular Numbers
 
 Certain sums of triangular numbers form perfect squares.
-
-
-
-
-
----
